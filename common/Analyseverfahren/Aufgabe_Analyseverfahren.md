@@ -10,6 +10,12 @@ Die Stakeholderanalyse gehört zu den wichtigsten Methoden im Projektmanagement
 Eine Umfeldanalyse bezeichnet das Sammeln, Ordnen und Visualisieren der Einflussfaktoren eines Projekts
  bzw. eines Unternehmens. 
 
+- political
+- economical
+- social
+- technological
+- legal
+- envirommental
 
 Durch die Umfeldanalyse lassen sich schnell die wichtigsten
 
@@ -25,7 +31,7 @@ Das magische Dreieck ist ein **Konzept aus dem Projektmanagement**.
 Hierbei geht es darum, die drei Dimensionen 
 
 - Zeit,
-- Umfang
+- Umfang (Leistung)
 - Kosten 
 
 in ein Gleichgewicht zu bringen.
