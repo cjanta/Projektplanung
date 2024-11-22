@@ -40,7 +40,13 @@ an die Ziele und den Führungsstil anpassen lässt.
 
 Das Teufelsquadrat ist eine Erweiterung des magischen Dreiecks
 
-und damit ein einfaches Hilfsmittel, um die wichtigsten Zielgrößen im Projekt zu visualisieren.
+und damit ein einfaches Hilfsmittel, um die **wichtigsten Zielgrößen** im Projekt zu visualisieren.
+
+Als Erweiterung des Maischen Dreiecks könnten folgende Zielgrößen dargestellt werden
+- Zeit
+- Umfang
+- Kosten
+- Qualität (ISO 9126?)
 
 Treten Änderungen auf, können diese auch während der Projektlaufzeit gut
 
