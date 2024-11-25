@@ -12,7 +12,7 @@ Ein Unternehmen möchte eine neue Website entwicklen. Die Abteilungen IT, Market
 
 - **Reine Projektorganisation**: Projektmitarbeiter arbeiten ausschließlich am Projekt.
 - **Matrixorganisation**: Mitarbeiter sind teils im Projekt, teils in ihrer Abteilung tätig.
-- **Einflussorganisation**: Projektleiter hat nur koordinierende Rolle, Entscheidungen verbleiben in den Abteilungen.
+- **Stab-Organisation**: Projektleiter hat nur koordinierende Rolle, Entscheidungen verbleiben in den Abteilungen.
 
 
 # Gewählte Organisationsform: **Matrixorganisation**
