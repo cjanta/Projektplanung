@@ -1,7 +1,13 @@
 # Projektplanungskurs
 
 ## common
-- Aufgaben in jeweiligen Ordnern
+- Aufgaben
+    1. Nutzwertanalyse
+    2. Ist-Analyse
+    3. Soll-Analyse
+    4. Organisationsformen
+    5. Planung Eigenes Projekt
+    6. Solutions GmbH
 - Analyseverfahren
 - Netzplan
 - Projektarten
