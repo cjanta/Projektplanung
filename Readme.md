@@ -5,6 +5,7 @@
 - Analyseverfahren
 - Netzplan
 - Projektarten
+- Musterloesungen
 
 ## Projektmanagement Kurs-PDFs
 1. Grundlagen
