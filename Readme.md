@@ -12,7 +12,7 @@
 - Netzplan
     1. Aufgaben
     2. Netzplan Cheat Sheet
-    3. DrawIo's zu den Aufgaben
+    3. DrawIo's zu den Netzplan-Aufgaben
 - Projektarten
 - Musterloesungen
 
