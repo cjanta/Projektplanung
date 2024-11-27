@@ -21,3 +21,9 @@
 2. Standards
 3. Zieldefinition
 4. Organisationsformen
+5. Analysen
+6. Lifecyle
+7. Planung und Abschluss
+8. Terminplanung
+9. Kostenplanung
+10. Wertschöpfungskette
