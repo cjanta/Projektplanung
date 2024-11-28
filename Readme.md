@@ -27,3 +27,6 @@
 8. Terminplanung
 9. Kostenplanung
 10. Wertschöpfungskette
+11. Risikomanagement
+12. Projektklassifierung
+13. Projektabschluss
